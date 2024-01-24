@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/vans/static/css/main.8511aef8.css",
-    "main.js": "/vans/static/js/main.4cc46a72.js",
+    "main.css": "/vans/static/css/main.45f35680.css",
+    "main.js": "/vans/static/js/main.f2b06876.js",
     "static/media/van.jpg": "/vans/static/media/van.4ec04a91c25b5a80e7f6.jpg",
     "index.html": "/vans/index.html",
-    "main.8511aef8.css.map": "/vans/static/css/main.8511aef8.css.map",
-    "main.4cc46a72.js.map": "/vans/static/js/main.4cc46a72.js.map"
+    "main.45f35680.css.map": "/vans/static/css/main.45f35680.css.map",
+    "main.f2b06876.js.map": "/vans/static/js/main.f2b06876.js.map"
   },
   "entrypoints": [
-    "static/css/main.8511aef8.css",
-    "static/js/main.4cc46a72.js"
+    "static/css/main.45f35680.css",
+    "static/js/main.f2b06876.js"
   ]
 }
