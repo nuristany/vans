@@ -113,3 +113,18 @@ nav ul li a{
 }
 
 
+.find-van {
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  margin-left: 50px;
+  border-radius: 5px;
+  margin-top: 40px;
+  background-color: rgb(236, 168, 40);
+  width: 30%;
+  padding: 20px;
+  text-align: center;
+
+}
+
+

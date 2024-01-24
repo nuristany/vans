@@ -19,7 +19,7 @@ function Vans() {
 
   return (
     <div>
-      <Navbar />
+    
       <div className="vans-container">
         {/* Render the vans */}
         {myVans}
